@@ -19,7 +19,7 @@ app.use(
       // process.env.FRONTEND_URL_TWO,
       // 'http://localhost:5173',
       // 'http://localhost:5174',
-      'https://xyz-mocha-one.vercel.app/'
+      'https://xyz-mocha-one.vercel.app'
     ],
     method: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,
